@@ -4,8 +4,8 @@
 
 1. Clonar repositorio.
 2. Crear entorno virtual.
-2.1. `python -m venv myenv`
-2.2. `source myenv/bin/activate`
+    `python -m venv myenv`
+    `source myenv/bin/activate`
 3. Instalar flask `pip install Flask` (Único paquete requerido').
 4. Iniciar la aplicación con `python app.py`.
 
